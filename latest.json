@@ -1,0 +1,10 @@
+{
+  "version": "4.0.0",
+  "pub_date": "26.10.2025",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRnlEVytTSDJpNkxZeFA1enp2MWZTSHk0S2JkNkdRT1VyUlZMZDk5RXRXbHo4V2ZJYWFhQnBXaHRIRjcrSHZoM1pVVndpN1htV2t6TDA4QzMvbkVKQVcrNW85bGlqMUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNTE0Mjg2CWZpbGU6QlhUb29sXzQuMC4wX3g2NC1zZXR1cC5leGUKdUwwdWFJZjA3eGs0Z1F6NmlFWkRFQ2YzWGdreERkTC9NWnR2TmVibHMrRk5SOERWYkxOVHZtY3VEL0Z6Y1p3Z09ZUW5zam1kMnZQM2lESzhRR042Q1E9PQo=",
+      "url": "https://github.com/GrosuCristi/test-bxtool-releases/releases/download/4.0.0/BXTool_4.0.0_x64-setup.exe"
+    }
+  }
+}
